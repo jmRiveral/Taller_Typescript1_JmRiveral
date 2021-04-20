@@ -1,3 +1,4 @@
+
 import { Course } from './course.js';
 export var dataCourses = [
     new Course("Ingeniería de Sw", "Pablo Picasso", 4),

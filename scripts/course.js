@@ -1,3 +1,4 @@
+
 var Course = /** @class */ (function () {
     function Course(name, professor, credits) {
         this.name = name;
